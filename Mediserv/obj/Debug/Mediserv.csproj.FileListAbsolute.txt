@@ -1,0 +1,308 @@
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\Mediserv.dll.config
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\Mediserv.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\Mediserv.pdb
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\csc.exe
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\csc.exe.config
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\csc.rsp
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\csi.exe
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\csi.exe.config
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\csi.rsp
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.Console.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\vbc.exe
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\vbc.rsp
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.xml
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\obj\Debug\Mediserv.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\obj\Debug\Mediserv.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\obj\Debug\Mediserv.csproj.CopyComplete
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\obj\Debug\Mediserv.dll
+C:\Users\Admin\Documents\mediserv\Mediserv\Mediserv\obj\Debug\Mediserv.pdb
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\Mediserv.dll.config
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\Mediserv.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\Mediserv.pdb
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\csc.exe
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\csc.exe.config
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\csc.rsp
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\csi.exe
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\csi.exe.config
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\csi.rsp
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.Managed.Core.targets
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.AppContext.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.Collections.Immutable.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.Console.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.Globalization.Calendars.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.IO.Compression.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.IO.FileSystem.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.Net.Http.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.Net.Sockets.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.Reflection.Metadata.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.ValueTuple.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.Xml.XmlDocument.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.Xml.XPath.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\vbc.exe
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\vbc.exe.config
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\vbc.rsp
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\VBCSCompiler.exe
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\roslyn\VBCSCompiler.exe.config
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\Microsoft.Web.Infrastructure.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\System.Web.Helpers.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\System.Web.Mvc.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\System.Web.Razor.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.Deployment.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.Razor.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\System.Web.Razor.xml
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.xml
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.Deployment.xml
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.Razor.xml
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\System.Web.Helpers.xml
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\System.Web.Mvc.xml
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\obj\Debug\Mediserv.csproj.AssemblyReference.cache
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\obj\Debug\Mediserv.csproj.CoreCompileInputs.cache
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\obj\Debug\Mediserv.csproj.CopyComplete
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\obj\Debug\Mediserv.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\obj\Debug\Mediserv.pdb
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\EntityFramework.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\EntityFramework.SqlServer.dll
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\EntityFramework.xml
+H:\CSE 3.2\mediserv\Mediserv\Mediserv\bin\EntityFramework.SqlServer.xml
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\Mediserv.dll.config
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\Mediserv.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\Mediserv.pdb
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\csc.exe
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\csc.exe.config
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\csc.rsp
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\csi.exe
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\csi.exe.config
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\csi.rsp
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.Managed.Core.targets
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.AppContext.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.Collections.Immutable.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.Console.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.Globalization.Calendars.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.IO.Compression.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.IO.FileSystem.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.Net.Http.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.Net.Sockets.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.Reflection.Metadata.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.ValueTuple.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.Xml.XmlDocument.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.Xml.XPath.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\vbc.exe
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\vbc.exe.config
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\vbc.rsp
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\VBCSCompiler.exe
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\roslyn\VBCSCompiler.exe.config
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\EntityFramework.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\EntityFramework.SqlServer.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\Microsoft.Web.Infrastructure.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\System.Web.Helpers.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\System.Web.Mvc.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\System.Web.Razor.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.Deployment.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.Razor.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\EntityFramework.xml
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\EntityFramework.SqlServer.xml
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\System.Web.Razor.xml
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.xml
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.Deployment.xml
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.Razor.xml
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\System.Web.Helpers.xml
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\System.Web.Mvc.xml
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\obj\Debug\Mediserv.csproj.AssemblyReference.cache
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\obj\Debug\Mediserv.csproj.CoreCompileInputs.cache
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\obj\Debug\Mediserv.csproj.CopyComplete
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\obj\Debug\Mediserv.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\obj\Debug\Mediserv.pdb
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\PagedList.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\PagedList.Mvc.dll
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\PagedList.xml
+H:\CSE 3.2\Download\mediserv\Mediserv\Mediserv\bin\PagedList.Mvc.xml
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\Mediserv.dll.config
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\Mediserv.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\Mediserv.pdb
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\csc.exe
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\csc.exe.config
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\csc.rsp
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\csi.exe
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\csi.exe.config
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\csi.rsp
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.Managed.Core.targets
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.AppContext.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.Collections.Immutable.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.Console.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.Globalization.Calendars.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.IO.Compression.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.IO.FileSystem.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.Net.Http.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.Net.Sockets.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.Reflection.Metadata.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.ValueTuple.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.Xml.XmlDocument.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.Xml.XPath.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\vbc.exe
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\vbc.exe.config
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\vbc.rsp
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\VBCSCompiler.exe
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\roslyn\VBCSCompiler.exe.config
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\EntityFramework.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\EntityFramework.SqlServer.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\Microsoft.Web.Infrastructure.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\PagedList.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\PagedList.Mvc.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\System.Web.Helpers.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\System.Web.Mvc.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\System.Web.Razor.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.Deployment.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.Razor.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\EntityFramework.xml
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\EntityFramework.SqlServer.xml
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\PagedList.xml
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\PagedList.Mvc.xml
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\System.Web.Razor.xml
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.xml
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.Deployment.xml
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\System.Web.Webpages.Razor.xml
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\System.Web.Helpers.xml
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\System.Web.Mvc.xml
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\obj\Debug\Mediserv.csproj.AssemblyReference.cache
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\obj\Debug\Mediserv.csproj.CoreCompileInputs.cache
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\obj\Debug\Mediserv.csproj.CopyComplete
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\obj\Debug\Mediserv.dll
+H:\CSE 3.2\Clone\mediserv\Mediserv\Mediserv\obj\Debug\Mediserv.pdb

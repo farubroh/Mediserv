@@ -1,0 +1,143 @@
+﻿@using Mediserv.Models
+@{
+    int row = 0;
+    int totalQuantity = 0;
+    double totalamount = 0;
+    ViewBag.Title = "view_cart";
+    Layout = "~/Views/Latest.cshtml";
+}
+
+<!-- Breadcrumb Section Begin -->
+<div class="breacrumb-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="breadcrumb-text product-more">
+                    <a href="./home.html"><i class="fa fa-home"></i> Home</a>
+                    <a href="./shop.html">Shop</a>
+                    <span>Shopping Cart</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Breadcrumb Section Begin -->
+<!-- Shopping Cart Section Begin -->
+<section class="shopping-cart spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="cart-table">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Image</th>
+                                <th class="p-name">Product Name</th>
+                                <th>Price</th>
+                                <th>Quantity</th>
+                                <th>Total</th>
+                                <th><i class="ti-close"></i></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            @if (Session["myCart"] != null)
+                            {
+                                foreach (var item in (List<Products>)Session["myCart"])
+                                {
+                                    <tr>
+                                        <td class="cart-pic"><img src="img/cart-page/product-2.jpg" alt=""></td>
+                                        <td class="cart-title">
+                                            <h5>@item.Name</h5>
+                                        </td>
+                                        <td class="p-price">@item.Price</td>
+                                        <td class="qua-col">
+                                            <div class="quantity">
+                                                @*<div class="pro-qty">*@
+                                                @*<input type="text" value="1">*@
+                                                <a href="@Url.Action("PlustoCart","Home",new { Rowno=row})"><span class="fa fa-plus"></span></a>
+                                                @*@item.p_in_cart*@
+                                                @item.p_in_cart
+                                                @*<input type="text" value="1">*@
+                                                <a href="@Url.Action("MinustoCart","Home",new { Rowno=row})"><span class="fa fa-minus"></span></a>
+
+                                                @*</div>*@
+                                            </div>
+                                        </td>
+                                        <td class="total-price">@(double.Parse(item.Price.ToString())* int.Parse(item.p_in_cart.ToString()))</td>
+                                        <td class="close-td">
+                                            <a href="@Url.Action("RemoveFromCart","Home",new { Rowno=row})"><i class="ti-close"></i></a>
+
+                                        </td>
+                                    </tr>
+                                    row++;
+                                    totalQuantity += item.p_in_cart;
+                                    totalamount += double.Parse(item.Price.ToString()) * int.Parse(item.p_in_cart.ToString());
+                                }
+
+                            }
+
+                            @*<tr>
+                                    <td class="cart-pic"><img src="img/cart-page/product-2.jpg" alt=""></td>
+                                    <td class="cart-title">
+                                        <h5>American lobster</h5>
+                                    </td>
+                                    <td class="p-price">$60.00</td>
+                                    <td class="qua-col">
+                                        <div class="quantity">
+                                            <div class="pro-qty">
+                                                <input type="text" value="1">
+                                            </div>
+                                        </div>
+                                    </td>
+                                    <td class="total-price">$60.00</td>
+                                    <td class="close-td"><i class="ti-close"></i></td>
+                                </tr>
+                                <tr>
+                                    <td class="cart-pic"><img src="img/cart-page/product-3.jpg" alt=""></td>
+                                    <td class="cart-title">
+                                        <h5>Guangzhou sweater</h5>
+                                    </td>
+                                    <td class="p-price">$60.00</td>
+                                    <td class="qua-col">
+                                        <div class="quantity">
+                                            <div class="pro-qty">
+                                                <input type="text" value="1">
+                                            </div>
+                                        </div>
+                                    </td>
+                                    <td class="total-price">$60.00</td>
+                                    <td class="close-td"><i class="ti-close"></i></td>
+                                </tr>*@
+                        </tbody>
+                    </table>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="cart-buttons">
+                            <a href="#" class="primary-btn continue-shop">Continue shopping</a>
+                            <a href="#" class="primary-btn up-cart">Update cart</a>
+                        </div>
+                        <div class="discount-coupon">
+                            <h6>Discount Codes</h6>
+                            <form action="#" class="coupon-form">
+                                <input type="text" placeholder="Enter your codes">
+                                <button type="submit" class="site-btn coupon-btn">Apply</button>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 offset-lg-4">
+                        <div class="proceed-checkout">
+                            <ul>
+                                <li class="subtotal">Subtotal <span>@totalamount</span></li>
+                                <li class="cart-total">Total <span>@totalamount</span></li>
+                            </ul>
+                            <a href="@Url.Action("Paynow","Home")" class="proceed-btn">PROCEED TO CHECK OUT</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Shopping Cart Section End -->
